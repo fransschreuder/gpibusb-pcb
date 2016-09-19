@@ -1,0 +1,19 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C10 C12 ,2,47pF,Capacitors_SMD:C_0603,
+C11 C8 ,2,10nF,Capacitors_SMD:C_0603,
+C2 C3 ,2,18pF,Capacitors_SMD:C_0603,
+C6 ,1,4.7uF,Capacitors_SMD:C_1210,
+C1 C4 C5 C7 C9 ,5,100nF,Capacitors_SMD:C_0603,
+D1 D2 D3 D4 ,4,LED,LEDs:LED_0805,
+L1 ,1,INDUCTOR_SMALL,Resistors_SMD:R_0603,
+P1 ,1,CONN_12X2,gpib_conn_male:gpib_conn_male,
+P2 ,1,CONN_01X05,Pin_Headers:Pin_Header_Straight_1x05,
+P5 ,1,USB_OTG,Connect:USB_Mini-B,
+R1 ,1,10k,Resistors_SMD:R_0603,
+R2 R3 R4 R5 ,4,270 ohm,Resistors_SMD:R_0603,
+R6 R7 ,2,27 ohm,Resistors_SMD:R_0603,
+U1 ,1,PIC18F4520,,
+U2 ,1,SN75160B,MODULE,DOCUMENTATION
+U3 ,1,SN75162B,MODULE,DOCUMENTATION
+U4 ,1,FT230X,MODULE,DOCUMENTATION
+X1 ,1,CRYSTAL,Crystals:ABM3,
